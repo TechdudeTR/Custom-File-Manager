@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "Secure cloud-synced file manager with tagging, offline access, hidden system file management, and AES file encryption vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
